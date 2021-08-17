@@ -2,7 +2,7 @@
 
 * [入门指南](rumen)
 * [书籍](books/)  
-* [破解软件]()
+* [破解软件](pojie/jieshao)
    * [burpsuit](pojie/burpsuit)
    * [vmware](pojie/vmware-ubuntu)
 * [内核]()
