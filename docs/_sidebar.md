@@ -5,7 +5,7 @@
    * [图解HTTP](book/)
 * [破解软件](pojie/jieshao)
    * [burpsuit](pojie/burpsuit)
-   * [vmware](pojie/vmware)
+   * [vmware](pojie/vmware-ubuntu)
 * [内核]()
 * [堆]()  
 * [资料]()  
