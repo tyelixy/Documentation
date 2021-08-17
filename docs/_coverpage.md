@@ -10,5 +10,5 @@
 - 一些安全资料分享
 - something special
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/tyelixy/Documentation)
+[Get Started](README)
